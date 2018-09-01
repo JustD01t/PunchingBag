@@ -17,7 +17,7 @@
  * @author WhiteJing
  * @link https://github.com/JustD01t/PunchingBag
  * 
- * @team JustD01t (https://github.com/JustD01t/)
+ * @team JustD01t (https://github.com/JustD01t)
  * 
  * 
 */
