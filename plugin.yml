@@ -1,0 +1,11 @@
+name: PunchingBag
+main: whitejing\punchingbag\PunchingBag
+version: 1.0.0
+author: WhiteJing
+api:
+- 3.1.4
+
+permissions:
+  punchingbag.summon.use:
+    description: 샌드백 소환 퍼미션
+    default: OP
