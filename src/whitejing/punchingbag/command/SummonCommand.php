@@ -15,7 +15,7 @@
  * (at your option) any later version.
  * 
  * @author WhiteJing
- * @link https://JustD01t/PunchingBag
+ * @link https://github.com/JustD01t/PunchingBag
  * 
  * @team JustD01t (https://github.com/JustD01t)
  * 
