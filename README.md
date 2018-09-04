@@ -5,4 +5,4 @@
 /샌드백
 
 # 라이센스
-GNU General Public License v3.0
+GNU Affero General Public License v3.0
